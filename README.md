@@ -1,11 +1,4 @@
-# Sanity Blogging Content Studio
+# Sanity Headless CMS
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
 
-Now you can do the following things:
-
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- Check out the example frontend: [React/Next.js](https://github.com/sanity-io/tutorial-sanity-blog-react-next)
-- [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+Sanity treats your content as structured data and makes it available through a simple and powerful API. Content can be created and edited in our collaborative editor, called the Content Studio, which is a fully customizable, client-side web application. You can run the studio on your laptop, host it with us on Sanity.io, or deploy it on your own web server.
